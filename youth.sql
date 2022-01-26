@@ -46,3 +46,6 @@ LIMIT 1 OFFSET 100;
 
 SELECT * FROM tomorrows;
 -- Life is still not over... But I'm exhausted.
+
+SELECT * FROM offers WHERE status = 'success';
+-- My hobby didn't bring me a job.
